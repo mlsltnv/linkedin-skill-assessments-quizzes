@@ -115,7 +115,7 @@
 #### Q17. An external auditor is required to be independent when performing
 
 - [ ] all attestation services
-- [ ] all professional services
+- [x] all professional services
 - [ ] all tax services
 - [ ] all consulting engagements
 
@@ -123,7 +123,7 @@
 
 - [ ] custody, payment, and recording
 - [ ] authorization, custody, and execution
-- [ ] authorization, custody, and recording
+- [x] authorization, custody, and recording
 - [ ] custody, execution, and payment
 
 #### Q19. What does the degree of operating leverage represent?
@@ -144,7 +144,7 @@
 
 - [ ] assignment of responsibility
 - [ ] audit verification
-- [ ] segregation of duties
+- [x] segregation of duties
 - [ ] review and reconciliation
 
 #### Q22. What trait distinguishes auditors from accountants?
@@ -152,12 +152,12 @@
 - [ ] The auditor can interpret accounting principles applicable to the country in which the client operates.
 - [ ] The auditor has extensive education beyond what is required for an accountant
 - [ ] The auditor can adapt to a rapidly changing profession.
-- [ ] The auditor has expertise in the gathering and interpretation of audit evidence.
+- [x] The auditor has expertise in the gathering and interpretation of audit evidence.
 
 #### Q23. What is the purpose of an operational audit?
 
 - [ ] assessing the company's compliance with environmental laws and regulations
-- [ ] evaluating whether the organization is meeting the metrics set by management in order to achieve the goals and objectives set forth by the board of directors
+- [x] evaluating whether the organization is meeting the metrics set by management in order to achieve the goals and objectives set forth by the board of directors
 - [ ] assessing the organization's control mechanisms for overall efficiency and reliability
 - [ ] evaluating compliance with applicable laws, regulations, policies, and procedures
 
@@ -200,7 +200,7 @@
 
 - [ ] Debt asset, credit equity
 - [ ] Debt liablity, credit asset.
-- [ ] Debit asset, credit liability
+- [x] Debit asset, credit liability
 - [ ] Debit equity, credit asset.
 
 #### Q31. Which section of a financial annual report describes the corporation's accounting methods?
